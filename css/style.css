@@ -1,0 +1,150 @@
+
+html, body{
+
+
+	background-color: black;
+
+}
+
+h1{
+color: white;
+text-align
+background-color: Black;
+font-family: 'Saira', sans-serif;
+border: 4px-solid white; 
+
+}
+
+h2{
+font-family: font-family: 'Saira', sans-serif;
+	color: white;
+}
+
+
+
+h3{
+
+	color: white;
+font-family: 'Saira', sans-serif;
+
+
+}
+
+
+h4{
+
+	color: white;
+font-family: 'Saira', sans-serif;
+
+
+}
+
+
+h5{
+
+	color: white;
+font-family: 'Saira', sans-serif;
+
+
+}
+
+
+
+
+
+.nightlock{	
+	width: 550px;
+	height: 750px;
+	display:flex;
+	justify-content: 2000px;
+}
+
+.navbar-inverse {
+    background-color: #9f0431;
+    border: 2px solid white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    
+}
+
+/*Panem*/
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #000000;
+    border: solid 1px #000000;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+
+/*Mockinjays*/
+#panel1, #flip1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #000000;
+    border: solid 1px #000000;
+}
+
+#panel1 {
+    padding: 50px;
+    display: none;
+}
+
+
+/* Muttations */
+
+#panel2, #flip2 {
+    padding: 5px;
+    text-align: center;
+    background-color: #000000;
+    border: solid 1px #000000;
+}
+
+#panel2 {
+    padding: 50px;
+    display: none;
+}
+
+/*Avoxes*/
+#panel3, #flip3 {
+    padding: 5px;
+    text-align: center;
+    background-color: #000000;
+    border: solid 1px #000000;
+    }
+ #panel3 {
+ 	padding: 50px;
+    display: none;
+  }
+
+
+
+
+
+
+
+#rosaknapp{
+background-color: #9f0431;
+border:none;
+color: #ffffff;
+font-family: font-family: 'Saira', sans-serif;
+font-size: 20px;
+transition: all 0.5s;
+}
+
+#rosaknapp:hover {
+background-color: #ffffff;
+color: white;
+font-family: font-family:'Saira', sans-serif;
+color: #9f0431;
+}
